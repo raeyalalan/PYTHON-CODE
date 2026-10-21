@@ -1,1 +1,2 @@
+I have included different python programs coded entirely by me in this repository. Given below is the explanation for each:
 This is a code for a multiplayer game of snakes and ladders. You enter the number of players, the names of all the players, and then start playing. When you roll the dice , it generates a random number and you make your move. If you encounter a snake or a ladder , you are notified and your new position is displayed.
