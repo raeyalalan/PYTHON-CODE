@@ -83,7 +83,7 @@ word_list=["Know","Ready","Mother","Dolphin","Happy","Battery","Table","Octopus"
 correct = []
 word = random.choice(word_list)
 word = word.upper()
-print(word)
+#print(word) - I put this while developing the game so that I could test while knowing the word
 
 #While Loop
 
